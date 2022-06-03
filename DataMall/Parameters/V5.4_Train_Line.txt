@@ -1,0 +1,11 @@
+Train Line Code, Train Line
+CCL, Circle Line
+CEL, Circle Line Extension – BayFront, Marina Bay
+CGL, Changi Extension – Expo, Changi Airport
+DTL, Downtown Line
+EWL, East West Line
+NEL, North East Line
+NSL, North South Line
+BPL, Bukit Panjang LRT
+SLRT, Sengkang LRT
+PLRT, Punggol LRT
