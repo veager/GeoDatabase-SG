@@ -1,3 +1,3 @@
 # GeoDatabase-Singapore
  
-This is personal project.
+This is a private project.
