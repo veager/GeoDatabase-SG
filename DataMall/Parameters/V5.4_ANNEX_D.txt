@@ -1,0 +1,81 @@
+# LTA DataMall | API User Guide & Documentation Version 5.4 (02 Nov 2021)
+# ANNEX D ZONE ID ATTRIBUTE TO SPECIFIC ERP GANTRY/GANTRIES FOR 2.13 ERP RATES
+Zone ID,ERP Gantry No.,ERP Gantry Location
+BMC,1,Victoria Street
+BMC,2,Nicoll Highway
+CBD,3,Eu Tong Sen Street
+OC1,4,Orchard Link
+CBD,5,Lim Teck Kim Road
+CBD,6,Anson Road
+CBD,7,Tanjong Pagar Road
+BMC,9,Bencoolen Street
+BMC,10,Queen Street
+BMC,11,North Bridge Road
+OC1,12,Oxley Road
+OC1,13,Orchard Road
+OC1,14,Orchard Turn
+OC1,15,Killiney Road
+BMC,16,Beach Road
+BMC,17,Temasek Boulevard
+BMC,18,Republic Boulevard
+CBD,19,Havelock Road/Clemenceau Ave
+CBD,20,Havelock Road/CTE Exit
+OC1,21,Buyong Road
+OC1,22,Kramat Road
+BMC,23,River Valley Road
+CBD,24,Merchant Road/Clemenceau Ave
+CBD,25,Merchant Road/CTE Exit
+OC1,26,Clemenceau Ave
+OC1,27,Cairnhill Road
+CBD,28,Central Boulevard
+CBD,29,Slip Road from Westbound MCE towards Maxwell Road
+EC1,30,ECP to City
+CT1,31,CTE after Braddell Road
+PE1,32,PIE after Kallang Bahru on Woodsville Flyover
+CT1,33,CTE from Serangoon Road
+CT1,34,CTE from Balestier Road
+CT4,35,CTE before Braddell Road
+AY1,36,AYE to City before Alexandra Road
+PE2,37,PIE to Changi after Adam Road Exit
+PE2,38,PIE to Changi / Whitley Road
+THM,39,Thomson Road after Toa Payoh Rise
+OR1,40,Bendemeer Road
+AYT,41,AYE to Tuas Before Clementi Road
+PE3,42,PIE into CTE
+DZ1,43,Dunearn Road / Wayang Satu Flyover
+DZ1,44,Dunearn Road / Whitley Road
+PE1,45,PIE slip road to Bendemeer Road
+CT5,46,CTE Northbound after PIE
+OC2,47,Orchard Road after YMCA
+OC3,48,Orchard Road after Handy Road
+OC2,49,Fort Canning Tunnel
+KP2,50,KPE Southbound after Defu Flyover
+CT6,51,CTE Northbound before exit to PIE
+AYC,52,Clementi Avenue 6 into AYE (City)
+AYC,53,Clementi Avenue 2 into AYE (City)
+BKE,54,Bt Timah Expressway (Sb betw Dairy Farm Rd and PIE)
+UBT,55,Upper Bt Timah Rd Southbound after Hume Ave
+TPZ,56,Toa Payoh Lorong 6
+KBZ,57,Kallang Bahru
+GBZ,58,Geylang Bahru
+BKZ,59,Upper Boon Keng Road
+SR2,60,Eu Tong Sen Street at Central
+SR1,61,New Bridge Road before Upper Circular Road
+SR1,62,South Bridge Road before Upper Circular Road
+SR2,63,Fullerton Road eastbound at Fullerton Hotel
+SR1,64,Fullerton Road westbound at One Fullerton
+PE4,65,PIE westbound before Eunos Link
+SR2,66,Bayfront Avenue towards Raffles Avenue
+CT5,67,PIE to CTE Northbound before Braddell Road
+CT2,68,CTE slip road to PIE (Changi) / Serangoon Road
+SR1,69,Bayfront Avenue Towards Marina Boulevard
+KAL,70,Geylang Road
+OR1,71,Woodsville Tunnel
+CBD,72,Sheares Avenue towards Sheares Link
+EC3,73,ECP eastbound before exit to KPE
+AYC,74,AYE to City Before Clementi Avenue 6
+KP1,80,KPE Southbound exit to ECP (City)
+MC1,90,MCE westbound exit to Marina Coastal Drive
+MC1,91,MCE westbound before exit to Maxwell Road
+MC2,92,Marina Boulevard to MCE eastbound
+MC2,93,MCE eastbound before exit to Central Boulevard
