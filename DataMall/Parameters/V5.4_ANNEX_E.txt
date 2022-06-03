@@ -1,0 +1,39 @@
+# 
+# ANNEX E GEOSPATIAL WHOLE ISLAND LAYER ID FOR 2.23 GEOSPATIAL WHOLE ISLAND
+S/No,Geospatial Whole Island Layers,ID
+1,Arrow Marking,ArrowMarking
+2,Bollard,Bollard
+3,Bus Stop Location,BusStopLocation
+4,Control Box,ControlBox
+5,Convex Mirror,ConvexMirror
+6,Covered Link Way,CoveredLinkWay
+7,Cycling Path,CyclingPath
+8,Detector Loop,DetectorLoop
+9,Emergency Gate,EmergencyGate
+10,ERP Gantry,ERPGantry
+11,Footpath,Footpath
+12,Guard Rail,GuardRail
+13,Kerb Line,KerbLine
+14,Lamp Post,LampPost
+15,Lane Marking,LaneMarking
+16,Parking Standards Zone,ParkingStandardsZone
+17,Passenger Pickup Bay,PassengerPickupBay
+18,Pedestrain Overheadbridge / Underpass,PedestrainOverheadbridge_UnderPass
+19,Rail Construction,RailConstruction
+20,Railing,Railing
+21,Retaining Wall,RetainingWall
+22,Road Construction,RoadConstruction
+23,Road Crossing,RoadCrossing
+24,Road Hump,RoadHump
+25,Road Section Line,RoadSectionLine
+26,School Zone,SchoolZone
+27,Silver Zone,SilverZone
+28,Speed Regulating Strip,SpeedRegulatingStrip
+29,Street Paint,StreetPaint
+30,Taxi Stand,TaxiStand
+31,Traffic Light,TrafficLight
+32,Traffic Sign,TrafficSign
+33,Train Station,TrainStation
+34,Train Station Exit,TrainStationExit
+35,Vehicular Bridge / Flyover / Underpass,VehicularBridge_Flyover_Underpass
+36,Word Marking,WordMarking
