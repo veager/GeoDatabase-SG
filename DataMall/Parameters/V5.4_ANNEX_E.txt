@@ -18,7 +18,7 @@ S/No,Geospatial Whole Island Layers,ID
 15,Lane Marking,LaneMarking
 16,Parking Standards Zone,ParkingStandardsZone
 17,Passenger Pickup Bay,PassengerPickupBay
-18,Pedestrain Overheadbridge / Underpass,PedestrainOverheadbridge_UnderPass
+18,Pedestrain Overheadbridge / Underpass,PedestrainOverheadbridge_Underpass
 19,Rail Construction,RailConstruction
 20,Railing,Railing
 21,Retaining Wall,RetainingWall
