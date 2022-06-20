@@ -1,12 +1,12 @@
 MRT Train Network
 
-### 1. MRT Map
+## 1. MRT Map
 
 LTA Rail Network, [website](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network.html)
 
 MRT Map of Singapore, [website](https://mrtmapsingapore.com/)
 
-### 2. Raw Data
+## 2. Raw Data
 
 #### (1) TrainStation.zip
 
@@ -83,7 +83,7 @@ MRT Map of Singapore, [website](https://mrtmapsingapore.com/)
 - Extracted from `MRT-Transfer-Stations-Raw.csv`
 - drop duplicated data, thus, keep the *station code*s be unique.
 
-### 3. Closed Stations
+## 3. Closed Stations
 
 - **Ten Mile Junction Station (BP14)** of the **Bukit Panjang LRT Line** is closed from 13 January 2019
   
@@ -95,7 +95,7 @@ MRT Map of Singapore, [website](https://mrtmapsingapore.com/)
 
 - **Teck Lee LRT Station (PW2)** of the **Bukit Panjang West LRT Line** is not in service.
 
-### 4. Limitation
+## 4. Limitations
 
 - not include the geographical length of line segments
 - not contain the geographical topology of line segments
