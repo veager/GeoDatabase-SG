@@ -12,7 +12,7 @@
 
   - CRS: WGS84, Geographic Coordinate Systems, EPSG:4326, [site](https://epsg.io/4326)
   
-  - Didn't chech the geometry' validity
+  - Didn't check the geometry' validity
 
     - Unvalid geometry: 
 
