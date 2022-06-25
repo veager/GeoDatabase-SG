@@ -4,6 +4,12 @@
 
 - Collection from DataMall Dynamic Data API: 2.3 BUS ROUTES
 
+#### bus_routes_topology_*.csv
+
+- Bus route topological data: [sgbusdata](https://github.com/cheeaun/sgbusdata)
+
+    - collected from `routes.min.geojson` file
+
 #### bus_stops_*.csv
 
 - Collection from DataMall Dynamic Data API: 2.4 BUS STOPS
@@ -14,5 +20,4 @@
 
 ## Limitation
 
-- **Not** contain the geographical geographic topology of the *line segments*.
-  - Bus route topological data: [sgbusdata](https://github.com/cheeaun/sgbusdata)
+- 
