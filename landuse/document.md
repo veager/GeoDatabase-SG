@@ -10,6 +10,8 @@
 
 - Extract `MP2019-landuse-shapefiles.zip`
 - **CRS:**  SVY21
-- **Columns: ** type, area
+- **Columns: ** 
+  - **type :** land use type
+  - **area :**
 - invalid geometry objects have been fixed
   - the difference area between the original and fixed geometry is small
