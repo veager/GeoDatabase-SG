@@ -6,7 +6,7 @@
 
   - CRS：SVY21, Projected Coordinate Systems, [site](https://epsg.io/3414)
   
-  - Geometry is passed the validity check
+  - All geometries are passed the validity check
 
 - `MP2019-boundary-zone-shapefiles.zip`
 
