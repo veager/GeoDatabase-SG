@@ -8,10 +8,4 @@
 
 ### `MP2019-landuse-SVY21.zip`
 
-- Extract `MP2019-landuse-shapefiles.zip`
-- **CRS:**  SVY21
-- **Columns: ** 
-  - **type :** land use type
-  - **area :**
-- invalid geometry objects have been fixed
-  - the difference area between the original and fixed geometry is small
+see another github project: [Urban Land Use](https://github.com/veager/Urban-Land-Use/tree/main/urban_land_use/)
