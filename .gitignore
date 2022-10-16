@@ -116,3 +116,4 @@ dmypy.json
 
 # release data
 postcodes/data/
+zone-boundary/data/
