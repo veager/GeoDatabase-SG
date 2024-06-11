@@ -1,0 +1,37 @@
+# LTA DataMall | API User Guide & Documentation Version 5.4 (02 Nov 2021)
+# ANNEX E GEOSPATIAL WHOLE ISLAND LAYER ID FOR 2.23 GEOSPATIAL WHOLE ISLAND
+S/No,Geospatial Whole Island Layers,ID
+1,Arrow Marking,ArrowMarking
+2,Bollard,Bollard
+3,Bus Stop Location,BusStopLocation
+4,Control Box,ControlBox
+5,Convex Mirror,ConvexMirror
+6,Covered Link Way,CoveredLinkWay
+7,Cycling Path,CyclingPath
+8,Detector Loop,DetectorLoop
+9,ERP Gantry,ERPGantry
+10,Footpath,Footpath
+11,Guard Rail,GuardRail
+12,Kerb Line,KerbLine
+13,Lamp Post,LampPost
+14,Lane Marking,LaneMarking
+15,Parking Standards Zone,ParkingStandardsZone
+16,Passenger Pickup Bay,PassengerPickupBay
+17,Pedestrain Overheadbridge / Underpass,PedestrainOverheadbridge_UnderPass
+18,Rail Construction,RailConstruction
+19,Railing,Railing
+20,Retaining Wall,RetainingWall
+21,Road Crossing,RoadCrossing
+22,Road Hump,RoadHump
+23,Road Section Line,RoadSectionLine
+24,School Zone,SchoolZone
+25,Silver Zone,SilverZone
+26,Speed Regulating Strip,SpeedRegulatingStrip
+27,Street Paint,StreetPaint
+28,Taxi Stand,TaxiStand
+29,Traffic Light,TrafficLight
+30,Traffic Sign,TrafficSign
+31,Train Station,TrainStation
+32,Train Station Exit,TrainStationExit
+33,Vehicular Bridge / Flyover / Underpass,VehicularBridge_Flyover_Underpass
+34,Word Marking,WordMarking
